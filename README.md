@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img alt="github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=k-nakamatsu&theme=onedark&show_icons=ture" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-nakamatsu&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-nakamatsu&theme=onedark&show_icons=true&count_private=true" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=k-nakamatsu&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)

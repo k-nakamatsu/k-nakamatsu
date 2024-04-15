@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <!-- 横に並べて表示したい場合
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=k-nakamatsu&theme=onedark&show_icons=ture" />
+  <img alt="github stats" align="left" src="https://github-readme-stats-nu-inky-90.vercel.app/api?username=k-nakamatsu&theme=onedark&show_icons=ture" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-nakamatsu&theme=onedark&show_icons=true&count_private=true" />
+  <img alt="Top Langs" align="left" src="https://github-readme-stats-nu-inky-90.vercel.app/api/top-langs?username=k-nakamatsu&theme=onedark&show_icons=true&count_private=true" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=k-nakamatsu&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)

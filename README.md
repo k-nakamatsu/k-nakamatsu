@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!--
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=k-nakamatsu&theme=onedark&show_icons=ture" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-nakamatsu&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-nakamatsu&layout=compact&show_icons=true&theme=onedark&count_private=true" />
 </p>
 -->
 
@@ -39,8 +39,9 @@ Here are some ideas to get you started:
   <img alt="Top Langs" align="left" src="https://github-readme-stats-nu-inky-90.vercel.app/api/top-langs?username=k-nakamatsu&theme=onedark&show_icons=true&count_private=true" />
 </a>
 
+<!-- トロフィー
 [![trophy](https://github-profile-trophy.vercel.app/?username=k-nakamatsu&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 <!-- 未調整
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=k-nakamatsu&repo=CobolDllAccessor)
 -->

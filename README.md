@@ -43,7 +43,7 @@ GitHub Profile Summary Cards
 <!-- 横に並べて表示したい場合
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="github stats" align="left" src="https://github-readme-stats-nu-inky-90.vercel.app/api?username=k-nakamatsu&theme=onedark&show_icons=ture" />
+  <img alt="github stats" align="left" src="https://github-readme-stats-nu-inky-90.vercel.app/api?username=k-nakamatsu&theme=onedark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Top Langs" align="left" src="https://github-readme-stats-nu-inky-90.vercel.app/api/top-langs?username=k-nakamatsu&theme=onedark&show_icons=true&count_private=true" />
@@ -55,3 +55,7 @@ GitHub Profile Summary Cards
 <!-- 未調整
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=k-nakamatsu&repo=CobolDllAccessor)
 -->
+
+<!-- スキルアイコン
+-->
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,git,github,vercel,linux,vim,bash,regex,postgres,mysql,sqlite,windows,visualstudio,vscode,cs,dotnet,nodejs,py,jquery,js,html,css,c&perline=12)](https://skillicons.dev)

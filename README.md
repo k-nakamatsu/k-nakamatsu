@@ -40,6 +40,10 @@ GitHub Profile Summary Cards
 [![](https://raw.githubusercontent.com/k-nakamatsu/k-nakamatsu/main/profile-summary-card-output/onedark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/k-nakamatsu/k-nakamatsu/main/profile-summary-card-output/onedark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/k-nakamatsu/k-nakamatsu/main/profile-summary-card-output/onedark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/k-nakamatsu/k-nakamatsu/main/profile-summary-card-output/onedark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<!-- スキルアイコン
+-->
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,git,github,vercel,linux,vim,bash,regex,postgres,mysql,sqlite,windows,visualstudio,vscode,cs,dotnet,nodejs,py,jquery,js,html,css,c&perline=12)](https://skillicons.dev)
+
 <!-- 横に並べて表示したい場合
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -55,7 +59,3 @@ GitHub Profile Summary Cards
 <!-- 未調整
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=k-nakamatsu&repo=CobolDllAccessor)
 -->
-
-<!-- スキルアイコン
--->
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,git,github,vercel,linux,vim,bash,regex,postgres,mysql,sqlite,windows,visualstudio,vscode,cs,dotnet,nodejs,py,jquery,js,html,css,c&perline=12)](https://skillicons.dev)

@@ -59,3 +59,5 @@ GitHub Profile Summary Cards
 <!-- 未調整
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=k-nakamatsu&repo=CobolDllAccessor)
 -->
+
+![](https://raw.githubusercontent.com/k-nakamatsu/k-nakamatsu/output/github-contribution-grid-snake.svg)

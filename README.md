@@ -1,3 +1,8 @@
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=k-nakamatsu&color=blue&base=30&abbreviated=true" />
+</div>
+
 ### Hi there 👋
 
 🔭 I’m currently working on GitHub Copilot.
